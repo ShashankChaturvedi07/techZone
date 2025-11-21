@@ -55,9 +55,9 @@ export default function Contact() {
                 <div>
                   <h3 className="font-semibold text-lg mb-1">Visit Us</h3>
                   <p className="text-gray-600">
-                    123 Tech Street, Silicon Valley
+                    123 Tech Street
                     <br />
-                    CA 94025, United States
+                    Ghaziabd , Uttar Pradesh
                   </p>
                 </div>
               </div>
@@ -69,9 +69,9 @@ export default function Contact() {
                 <div>
                   <h3 className="font-semibold text-lg mb-1">Call Us</h3>
                   <p className="text-gray-600">
-                    +1 (555) 123-4567
+                    +91 9120839595
                     <br />
-                    Mon-Fri: 9AM - 6PM PST
+                    Mon-Fri: 9AM - 6PM 
                   </p>
                 </div>
               </div>
@@ -142,7 +142,7 @@ export default function Contact() {
                     onChange={handleChange}
                     required
                     className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent"
-                    placeholder="John Doe"
+                    placeholder="Shanky Chaubey"
                   />
                 </div>
 
@@ -161,7 +161,7 @@ export default function Contact() {
                     onChange={handleChange}
                     required
                     className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent"
-                    placeholder="john@example.com"
+                    placeholder="shanky@example.com"
                   />
                 </div>
 
